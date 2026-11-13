@@ -62,15 +62,6 @@ function App() {
       ]
     },
     {
-      company: "Ginkgo International Food & Cosmetic Shop",
-      role: "Founder & General Manager",
-      location: "Bremen, Germany",
-      dates: "Jun 2022 – Dec 2023",
-      highlights: [
-        "Managed Point-of-Sale (POS) system administration, vendor agreements, financial documentation, and business operations, negotiating supplier contracts that reduced inventory costs by 20%."
-      ]
-    },
-    {
       company: "WatchWater Ghana",
       role: "International Sales Representative",
       location: "Accra, Ghana",
@@ -113,7 +104,6 @@ function App() {
     "Supported the 2013 enterprise-wide core banking migration at ProCredit, covering requirements, data migration oversight, security assessments, and testing.",
     "Directed operational and compliance training for 15+ employees while overseeing €50K+ in daily banking transactions.",
     "Expanded cross-border revenue by 35% and acquired 12 key accounts at WatchWater Ghana.",
-    "Negotiated supplier contracts that reduced inventory costs by 20% as Founder & General Manager.",
     "Completed 2,400 hours of cybersecurity training with a GRC specialisation at Cybersteps GmbH."
   ];
 
