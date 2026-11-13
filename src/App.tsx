@@ -53,6 +53,15 @@ function App() {
       ]
     },
     {
+      company: "Ginkgo International Food & Cosmetic Shop",
+      role: "General Manager",
+      location: "Bremen, Germany",
+      dates: "Jun 2022 – Dec 2023",
+      highlights: [
+        "Managed Point-of-Sale (POS) system administration, vendor agreements, financial documentation, and business operations, negotiating supplier contracts that reduced inventory costs by 20%."
+      ]
+    },
+    {
       company: "Amazon Großenkneten GmbH",
       role: "Fulfillment Associate",
       location: "Germany",
